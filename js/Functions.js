@@ -4,3 +4,4 @@ let play = document.getElementById("play");
     audio.play()
     }
 play.addEventListener("click", playMusic);
+

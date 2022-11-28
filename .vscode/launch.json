@@ -5,10 +5,10 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "type": "firefox",
+            "type": "msedge",
             "request": "launch",
             "name": "Open Test.html",
-            "file": "e:\\Git\\Website\\Test.html"
+            "file": "C:\\Git\\Website\\Test.html"
         }
     ]
 }
